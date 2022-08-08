@@ -1,6 +1,6 @@
 # Hi there 👋, Achini Kawshalya Thathsarani
 ## Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/Untitled%20Design.jpg)
 
 I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute of Business Management in Sri Lanka (Bachelor of Software Engineering Honours). I do content on Design and Development. I enjoy learning languages and frameworks like React and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
