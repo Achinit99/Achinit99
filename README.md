@@ -14,3 +14,9 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achinit99&theme=jolly&show_icons=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achinit99&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achinit99&repo=convoychat" />
+</a>
