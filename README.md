@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/Achinit99) 
-![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/Achini%20thathsarani%20(1).png)
+![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/_Coding%20%26%20Tutorials.png)
 
 # Hello there! I'm Achini Kawshalya Thathsarani
 
