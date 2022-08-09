@@ -12,8 +12,5 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 * 📱  React Native
 * 💻 HTML, CSS, JS
 
-## Examples of Work
-<img src="https://github.com/Achinit99/Achinit99/blob/main/Untitled%20design.png" width="240"/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achinit99&theme=jolly&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achinit99&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
