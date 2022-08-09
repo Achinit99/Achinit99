@@ -10,6 +10,10 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 * 📱  React Native
 * 💻 HTML, CSS, JS 
 
+## Examples of Work
+<img src="https://github.com/Achinit99/Achinit99/blob/main/Untitled%20design.png" width="256"/>
+<img src="https://github.com/Achinit99/Achinit99/blob/main/Study%20With%20Me.png" width="256"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achinit99&theme=jolly&show_icons=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Achinit99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Achinit99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Achinit99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Achinit99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Achinit99) 
