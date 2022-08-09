@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/Untitled%20Design.jpg)
+![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/Achini%20thathsarani.png)
 
 # Achini Kawshalya Thathsarani
 
