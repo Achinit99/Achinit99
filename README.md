@@ -12,7 +12,7 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 ## Examples of Work
 
-<img src="https://github.com/Achinit99/Achinit99/blob/main/Study%20With%20Me.png" width="250"/>
+<img src="https://github.com/Achinit99/Achinit99/blob/main/Study%20With%20Me.png" target="_blank" width="250"/>
 <img src="https://github.com/Achinit99/Achinit99/blob/main/Untitled%20design.png" width="250"/>
 <img src="https://github.com/Achinit99/Achinit99/blob/main/watch%20now.png" width="250"/>
 
