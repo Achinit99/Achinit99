@@ -11,8 +11,7 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 * 💻 HTML, CSS, JS 
 
 ## Examples of Work
-<img src="https://github.com/Achinit99/Achinit99/blob/main/Untitled%20design.png" width="256"/>
-<img src="https://github.com/Achinit99/Achinit99/blob/main/Study%20With%20Me.png" width="256"/>
+<img src="https://github.com/Achinit99/Achinit99/blob/main/Untitled%20design.png", "https://github.com/Achinit99/Achinit99/blob/main/Study%20With%20Me.png" width="256"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achinit99&theme=jolly&show_icons=true)
 
