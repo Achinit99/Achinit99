@@ -11,6 +11,9 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
+
+<a href="https://github.com/Achinit99/Achinit99/blob/main/Pink%20Purple%20gradient%20Kawaii%20Cute%20Vlog%20YouTube%20Intro%20(1).mp4" target="_blank"><img src="https://github.com/Achinit99/Achinit99/blob/main/watch%20now.png" width="240" height="180" border="10"/></a>
+
 <img src="https://github.com/Achinit99/Achinit99/blob/main/Study%20With%20Me.png" width=256/>
 <img src="https://github.com/Achinit99/Achinit99/blob/main/Untitled%20design.png" width=256/>
 <img src="https://github.com/Achinit99/Achinit99/blob/main/watch%20now.png" width=256/>
