@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/Achinit99) 
 ![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/Achini%20thathsarani%20(1).png)
 
 # Achini Kawshalya Thathsarani
@@ -18,4 +19,3 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Achinit99)  
 
-![Profile views](https://gpvc.arturio.dev/Achinit99)  
