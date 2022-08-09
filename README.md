@@ -6,6 +6,7 @@
 I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute of Business Management in Sri Lanka (Bachelor of Software Engineering Honours). I do content on Design and Development. I enjoy learning languages and frameworks like React and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achinit99&theme=jolly&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achinit99&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 * ⚛️ React
 * 📱  React Native
