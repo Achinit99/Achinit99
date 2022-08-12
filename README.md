@@ -20,8 +20,6 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Achinit99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achinit99&label=Profile%20views&color=0e75b6&style=flat" alt="achinit99" /> </p>
 
 <h3 align="left">Connect with me:</h3>
