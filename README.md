@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Achinit99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/%23Web%20Development.png)
+![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/%23Web%20Development%20(1).png)
 
 # Hello there! I'm Achini Thathsarani
 
