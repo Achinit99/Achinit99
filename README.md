@@ -16,7 +16,6 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://twitter.com/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://fb.com/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achinit99" height="30" width="40" /></a>
@@ -24,7 +23,7 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 <a href="https://www.youtube.com/c/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="achinit99" height="30" width="40" /></a>
 </p>
 
-# 📊GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Achinit99&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Achinit99&theme=dark&hide_border=true)<br/>
