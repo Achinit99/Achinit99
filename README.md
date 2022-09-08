@@ -4,6 +4,8 @@
 
 ![Design and Development](https://github.com/Achinit99/Achinit99/blob/main/%23Web%20Development%20(1).png)
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
+
 # Hello there! I'm Achini Thathsarani
 
 I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute of Business Management in Sri Lanka (Bachelor of Software Engineering Honours). I do content on Design and Development. I enjoy learning languages and frameworks like React and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
