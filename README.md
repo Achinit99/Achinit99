@@ -22,7 +22,7 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 ## GitHub Stats:
 
-<a src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="400" /></a>
+![](https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif-width="400")
 ![](https://github-readme-stats.vercel.app/api?username=Achinit99&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Achinit99&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achinit99&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
