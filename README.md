@@ -17,5 +17,8 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 <a href="https://instagram.com/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achinit99" height="30" width="40" /></a>
 </p>
 
+## GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Achinit99&theme=dark&hide_border=true)<br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Achinit99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
