@@ -2,9 +2,9 @@
 
 # Hello there! I'm Achini Thathsarani
 
-I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute of Business Management in Sri Lanka (Bachelor of Software Engineering Honours). I do content on Design and Development. I enjoy learning languages and frameworks like React and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
-
 <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
+
+I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute of Business Management in Sri Lanka (Bachelor of Software Engineering Honours). I do content on Design and Development. I enjoy learning languages and frameworks like React and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 ## Skills and Experience:
 
