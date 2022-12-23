@@ -18,7 +18,6 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 <a href="https://instagram.com/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achinit99" height="30" width="40" /></a>
 </p>
 
-## GitHub Stats:
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
@@ -32,7 +31,7 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 ---
 
-##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
+### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
 
 <!-- wi*quL3fcV -->
 
