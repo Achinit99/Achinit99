@@ -20,5 +20,24 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Achinit99&theme=dark&hide_border=true)<br/>
 
+---
+
+##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
+
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐔', '🐥', '🐣'].sort())
+
+// If you believe in GOD
+>>> [ '🐔', '🥚', '🐣', '🐥' ]
+
+// If you believe Evolution
+>>> [ '🥚', '🐣', '🐥', '🐔' ]
+```
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Achinit99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
