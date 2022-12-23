@@ -24,17 +24,6 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 <a href="https://instagram.com/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achinit99" height="30" width="40" /></a>
 </p>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="https://github.com/Achinit99/">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Achinit99&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="https://github.com/Achinit99/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achinit99&theme=react&line_height=40&hide=css"/>
-    </a>
-</div>
-
 ---
 
 ### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
@@ -53,3 +42,14 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 ```
 
 ---
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="https://github.com/Achinit99/">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Achinit99&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="https://github.com/Achinit99/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achinit99&theme=react&line_height=40&hide=css"/>
+    </a>
+</div>
