@@ -11,7 +11,7 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.youtube.com/c/Achini_Thathsarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Achini Thathsarani]" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmbQVz96U94gC_vsLMG60Lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Achini Thathsarani]" height="30" width="40" /></a>
 <a href="https://twitter.com/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://fb.com/achini.thathsarani.779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achinit99" height="30" width="40" /></a>
