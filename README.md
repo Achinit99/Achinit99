@@ -40,8 +40,6 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
   <h2> Github Statistics 📈 </h2>
  </a>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achinit99&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="Achinit99"/>
- </a>
   <a href="https://github.com/Achinit99/">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Achinit99&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
 
