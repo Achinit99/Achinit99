@@ -14,7 +14,6 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 <p align="left">
 <a href="https://www.youtube.com/channel/UCmbQVz96U94gC_vsLMG60Lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Achini Thathsarani]" height="30" width="40" /></a>
-<a href="https://twitter.com/achinit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/achini-thathsarani-91366a223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDBfJPAyVQqe3ACYsDLpHhw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://fb.com/achini.thathsarani.779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://instagram.com/__a_c_h_i_n_i__s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achinit99" height="30" width="40" /></a>
