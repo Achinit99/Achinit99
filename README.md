@@ -42,3 +42,22 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
  </a>
   <a href="https://github.com/Achinit99/">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Achinit99&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+
+ ---
+
+## 👱🏼 Some Of My Best and Awesome Projects 🚀-
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    </table>
+    
