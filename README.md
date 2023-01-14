@@ -73,14 +73,14 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Achinit99?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Achinit99?style=flat-square&label=Issues"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Achinit99?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Achinit99?label=C#&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Achinit99?label=CSS&style=flat-square"/></td>
       <tr>
 	      <td><a href="https://github.com/Achinit99/Web_FlowerShop.git"><b>💸 Web_FlowerShop</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Achinit99?style=flat-square&label=Stars&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Achinit99?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Achinit99?style=flat-square&label=Issues"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Achinit99?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Achinit99?label=CSS&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Achinit99?label=Javascript&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
