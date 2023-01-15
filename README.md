@@ -21,6 +21,50 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 
 ---
 
+## 👱🏼 Some Of My Best and Awesome Projects 🚀-
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+        <tbody>
+      <tr>
+	<td><a href="https://github.com/Achinit99/Loan_ManagementSystem.git"><b>🚀 Loan_ManagementSystem</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Achinit99/Achinit99?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Achinit99/Achinit99?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Achinit99/Achinit99?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Achinit99/Achinit99?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/C shap / MySQL-100.0%25-blue?style=flat-square"/></td>
+      </tr>
+        <tr>
+	<td><a href="https://github.com/Achinit99/Cafe_ManagementSystem.git"><b>🚀 Cafe_ManagementSystem</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Achinit99/Achinit99?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Achinit99/Achinit99?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Achinit99/Achinit99?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Achinit99/Achinit99?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/C shap / MySQL-100.0%25-blue?style=flat-square"/></td>
+      </tr>
+       <tr>
+	<td><a href="https://github.com/Achinit99/Web_FlowerShop.git"><b>🚀 Web_FlowerShop</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Achinit99/Achinit99?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Achinit99/Achinit99?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Achinit99/Achinit99?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Achinit99/Achinit99?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/ CSS / Javascript / HTML / Bootstrap-100.0%25-blue?style=flat-square"/></td>
+      </tr> 
+  </tbody>
+  </table>
+  <br />
+
+
 ### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
 
 <!-- wi*quL3fcV -->
@@ -43,7 +87,7 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
   <a href="https://github.com/Achinit99/">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Achinit99&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
 
- ---
+<!--  ---
 
 ## 👱🏼 Some Of My Best and Awesome Projects 🚀-
 
@@ -87,4 +131,4 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
   </tbody>
   </table>
   <br />
-    
+     -->
