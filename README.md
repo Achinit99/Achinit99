@@ -19,6 +19,21 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 <a href="https://instagram.com/__a_c_h_i_n_i__s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achinit99" height="30" width="40" /></a>
 </p>
 
+### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
+
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐔', '🐥', '🐣'].sort())
+
+// If you believe in GOD
+>>> [ '🐔', '🥚', '🐣', '🐥' ]
+
+// If you believe Evolution
+>>> [ '🥚', '🐣', '🐥', '🐔' ]
+```
+
 ---
 
 ## 👱🏼 Some Of My Best and Awesome Projects 🚀-
@@ -63,24 +78,6 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
   </tbody>
   </table>
   <br />
-
-
-### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
-
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐔', '🐥', '🐣'].sort())
-
-// If you believe in GOD
->>> [ '🐔', '🥚', '🐣', '🐥' ]
-
-// If you believe Evolution
->>> [ '🥚', '🐣', '🐥', '🐔' ]
-```
-
----
 
   <h2> Github Statistics 📈 </h2>
  </a>
