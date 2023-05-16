@@ -39,8 +39,6 @@
 
 <!--<img src="https://github.com/Achinit99/Achinit99/commit/702615cbaaa7d49aeb641ccf95bf5ef901f7425a" />-->
  
-# Hello there! I'm Achini Thathsarani
-
 I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute of Business Management in Sri Lanka (Bachelor of Software Engineering Honours). I do content on Design and Development. I enjoy learning languages and frameworks like React and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 ## Skills and Experience:
@@ -56,6 +54,9 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 <a href="https://fb.com/achini.thathsarani.779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achinit99" height="30" width="40" /></a>
 <a href="https://instagram.com/__a_c_h_i_n_i__s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achinit99" height="30" width="40" /></a>
 </p>
+
+
+[![Achini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Achinit99)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
 
