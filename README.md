@@ -55,9 +55,6 @@ I'm Achini from Kurunegala, and I'm an Undergraduate at the National Institute o
 <a href="https://instagram.com/__a_c_h_i_n_i__s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achinit99" height="30" width="40" /></a>
 </p>
 
-
-[![Achini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Achinit99)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
 
 <!-- wi*quL3fcV -->
