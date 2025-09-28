@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Achini+Thathsarani;NIBM-+%F0%9F%92%BB%2C+Bachelor+of+Software+Engineering+Honours;)](https://git.io/typing-svg)
 
-<h3 align="center"><b><i>Full stack and DevOps Engineer from Sri Lanka</i></b></h3>
+<h3 align="center"><b><i> DevOps Engineer and Full stack Developer from Sri Lanka</i></b></h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;NIBM+SE+Student;Java%20|%20HTML%20|%20CSS%20|%20JS%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
