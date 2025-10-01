@@ -72,7 +72,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!-- wi*quL3fcV -->
+<!-- wi*quL3fcV 
 
 ```javascript
 // Which came first: the chicken or the egg?
@@ -84,8 +84,8 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 // If you believe Evolution
 >>> [ '🥚', '🐣', '🐥', '🐔' ]
 ```
+-->
 
----
 <!--
 ## 👱🏼 Some Of My Best and Awesome Projects 🚀-
 
