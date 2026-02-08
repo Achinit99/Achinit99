@@ -6,7 +6,7 @@
 <h3 align="center"><b><i> DevOps Engineer and Full stack Developer from Sri Lanka</i></b></h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;NIBM+SE+Student;|%20Jenkins%20|%20Java%20|%20Docker%20|%20Python%20|%20JS%20|%20Terraform%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;NIBM+SE+Student;%20Jenkins%20|%20Java%20|%20Docker%20|%20Python%20|%20JS%20|%20Terraform%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
 <div id="header" align="center">
